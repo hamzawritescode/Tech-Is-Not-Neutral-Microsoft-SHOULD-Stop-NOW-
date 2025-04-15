@@ -24,4 +24,4 @@ fire();
 // When tech chooses sides,
 // it becomes part of the war.
 
-// Microsoft MUST stop cooperarting with Isreal right now!!
+// Microsoft MUST stop cooperarting with Israel right now!!
